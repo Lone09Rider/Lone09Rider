@@ -6,7 +6,7 @@
 📫 Reach me anytime — let’s connect!  
 
 ---
-⚡ Fun fact: I treat my finances like datasets 😉
+⚡ Fun fact: I learn faster than my Wi‑Fi speed.
 ---
 
   Want to Explore Me? Visit:
