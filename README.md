@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Hi%20there%20👋&fontSize=40&fontColor=fff&animation=fadeIn" />
 </p>
-
 <!-- Intro Section -->
 <p align="center">
   🚀 <b>Building, learning, and sharing code</b><br>
