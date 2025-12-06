@@ -11,14 +11,16 @@
   📫 <b>Reach me anytime — let’s connect!</b>
 </p>
 
----
+<!-- Divider -->
+<p align="center">🌟🌟🌟🌟🌟🌟🌟</p>
 
 <!-- Fun Fact Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Fun%20Fact-I%20learn%20faster%20than%20WiFi%20speed-ff69b4?style=for-the-badge&logo=zap&logoColor=white" />
 </p>
 
----
+<!-- Divider -->
+<p align="center">⚡⚡⚡⚡⚡⚡⚡</p>
 
 <!-- Portfolio Link -->
 <p align="center">
@@ -28,23 +30,20 @@
   </a>
 </p>
 
----
+<!-- Divider -->
+<p align="center">🚀🚀🚀🚀🚀🚀🚀</p>
 
 <!-- Tech Stack Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,spring,react,mysql,git,github,html,css" />
 </p>
 
----
+<!-- Divider -->
+<p align="center">🎨🎨🎨🎨🎨🎨🎨</p>
 
 <!-- Vibe Quote -->
 <p align="center">
   <img src="https://img.shields.io/badge/Motto-Code%20with%20purpose%2C%20design%20with%20soul-blueviolet?style=for-the-badge&logo=star" />
 </p>
 
----
-
 <!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
