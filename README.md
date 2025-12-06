@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋
+
+🚀 Building, learning, and sharing code.  
+💡 Exploring backend, data science & creative tech.  
+🤝 Open to collabs & new ideas.  
+📫 Reach me anytime — let’s connect!  
+
+---
+⚡ Fun fact: I treat my finances like datasets 😉
+
 
 <!--
 **Lone09Rider/Lone09Rider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
