@@ -7,6 +7,12 @@
 
 ---
 ⚡ Fun fact: I treat my finances like datasets 😉
+---
+
+  Want to Explore Me? Visit:
+https://srj-sd-portfolio.netlify.app/
+
+---
 
 
 <!--
