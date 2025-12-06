@@ -19,7 +19,6 @@
 </p>
 <!-- Slim ASCII Wave Divider -->
 <p align="center">
-  ~~~~~~~~~~~~~~~
 </p>
 <!-- Portfolio Link -->
 <p align="center">
