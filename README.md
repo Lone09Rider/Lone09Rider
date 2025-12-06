@@ -1,6 +1,6 @@
 <!-- Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&section=header&text=Hi%20there%20👋&fontSize=50&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Hi%20there%20👋&fontSize=50&fontColor=fff&animation=fadeIn" />
 </p>
 
 <!-- Intro Section -->
@@ -30,22 +30,21 @@
 
 ---
 
-<!-- GitHub Stats -->
+<!-- Tech Stack Icons -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lone09Rider&show_icons=true&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,react,mysql,git,github,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lone09Rider&theme=radical" />
-</p>
+---
 
+<!-- Vibe Quote -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lone09Rider&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/badge/Motto-Code%20with%20purpose%2C%20design%20with%20soul-blueviolet?style=for-the-badge&logo=star" />
 </p>
 
 ---
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
