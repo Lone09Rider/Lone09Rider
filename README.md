@@ -1,19 +1,26 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-🚀 Building, learning, and sharing code.  
-💡 Exploring backend, data science & creative tech.  
-🤝 Open to collabs & new ideas.  
-📫 Reach me anytime — let’s connect!  
-
----
-⚡ Fun fact: I learn faster than my Wi‑Fi speed.
----
-
-  Want to Explore Me? Visit:
-https://srj-sd-portfolio.netlify.app/
+<p align="center">
+🚀 <b>Building, learning, and sharing code</b><br>
+💡 <b>Exploring backend, data science & creative tech</b><br>
+🤝 <b>Open to collabs & new ideas</b><br>
+📫 <b>Reach me anytime — let’s connect!</b>
+</p>
 
 ---
 
+<p align="center">
+⚡ <i>Fun fact:</i> I learn faster than my Wi‑Fi speed.
+</p>
+
+---
+
+<p align="center">
+🌐 <b>Want to Explore Me?</b><br>
+<a href="https://srj-sd-portfolio.netlify.app/" target="_blank">🌟 Visit My Portfolio 🌟</a>
+</p>
+
+---
 
 <!--
 **Lone09Rider/Lone09Rider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
